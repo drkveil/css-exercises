@@ -42,18 +42,17 @@ body {
   display: flex;
   justify-content: space-between;
   font-weight: bold;
-  margin: 15px 15px 10px 15px;
   font-size: 20px;
 }
 
 .text{
-  margin: 0px 15px 15px 15px;
+  margin: 10px 0px;
   padding: 0;
 
 }
 
-.btn{
-  margin: 10px;
+.info{
+  padding: 15px 15px 15px 0px;
 }
 
 .close-button {
